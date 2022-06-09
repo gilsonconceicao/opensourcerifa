@@ -1,1 +1,0 @@
-Testando repositório com o git!
